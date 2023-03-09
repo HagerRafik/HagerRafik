@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HagerRafik
+- 👋 Hi, I’m @HagerAtta
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to collaborate on a data science project 
